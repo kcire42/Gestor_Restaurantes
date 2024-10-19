@@ -1,0 +1,11 @@
+Datos: 	N# - 9831		19/10/2024-0:42***********************************************
+Items		Cant.	Costo Items------------------------------------------------------
+tacos -1		2	$ 4
+------------------------------------------------------
+Costo de la comida: 			$ 4.0
+Costo de la bebida: 			$ 0.0
+Costo de la postres: 			$ 0.0
+Costo de la subtotal: 			$ 4.0
+Costo de la impuestos: 			$ 0.64
+Costo de la total: 			$ 4.64
+
